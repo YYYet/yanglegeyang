@@ -7,6 +7,7 @@
  2. 进入该小游戏
  3. 打开程序，同意免责声明
  4. 根据需要修改次数和时间，点击开始
+ 
  ![image](https://user-images.githubusercontent.com/44288158/190867021-7e8907b6-534a-4519-aa0d-026632c3c6ed.png)
 
 
